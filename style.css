@@ -12,11 +12,12 @@ html, body {
 }
 
 .popup {
+  width: 80vh;
   position: absolute;
   background: white;
   border: 1px solid #ccc;
   padding: 10px;
-  max-width: 250px;
+  max-width: 90vh;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
   border-radius: 5px;
 }
